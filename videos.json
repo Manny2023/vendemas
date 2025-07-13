@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cklass",
+    "title": "Cklass Confort",
+    "videoUrl": "https://ia601707.us.archive.org/24/items/cklass-confort/Cklass%20confort.mp4",
+    "poster": "https://archive.org/download/photostudio_1752440538231/photostudio_1752440538231.jpg",
+    "date": "2025-07-01",
+    "description": "Catálogo Cklass Confort, moda y estilo para tu comodidad."
+  },
+  {
+    "id": "avon",
+    "title": "Avon Cuidado Facial",
+    "videoUrl": "https://archive.org/download/avon-shorts/Cuidado%20Facial.mp4",
+    "poster": "https://ia600705.us.archive.org/8/items/img-20250616-195750-338/__ia_thumb.jpg",
+    "date": "2025-07-02",
+    "description": "Avon presenta productos para el cuidado facial con excelente calidad."
+  },
+  {
+    "id": "arabela",
+    "title": "Arabela Perfumes Top",
+    "videoUrl": "https://archive.org/download/arabela-short/Perfumes%20Top.mp4",
+    "poster": "https://ia801707.us.archive.org/3/items/arabela-thumb/arabela-thumb.jpg",
+    "date": "2025-07-03",
+    "description": "Perfumes destacados de Arabela para un aroma inolvidable."
+  }
+]
