@@ -28,27 +28,25 @@
     "likes": 52,
     "views": 405,
     "description": "Los perfumes más vendidos de Arabela 💖🌷"
-  }
-[
-  {
-    "id": "cklass-confort",
-    "title": "Cklass Confort",
-    "videoUrl": "...",
-    "poster": "...",
-    "date": "2025-07-01",
-    "likes": 27,
-    "views": 284,
-    "description": "Moda cómoda y moderna con Cklass Confort. 💃✨"
   },
   {
-    "id": "avon-facial",
-    "title": "Avon Cuidado Facial",
-    "videoUrl": "...",
-    "poster": "...",
-    "date": "2025-07-02",
-    "likes": 41,
-    "views": 358,
-    "description": "Descubre lo nuevo de Avon para el cuidado facial. 🌸👑"
+    "id": "nuevo-video-1",
+    "title": "Nuevo Catálogo Verano 2025",
+    "videoUrl": "https://example.com/videos/nuevo-verano.mp4",
+    "poster": "https://example.com/posters/nuevo-verano.jpg",
+    "date": "2025-07-10",
+    "likes": 0,
+    "views": 0,
+    "description": "Los mejores looks para este verano 2025."
+  },
+  {
+    "id": "nuevo-video-2",
+    "title": "Especial Moda Otoño",
+    "videoUrl": "https://example.com/videos/otoño.mp4",
+    "poster": "https://example.com/posters/otoño.jpg",
+    "date": "2025-07-13",
+    "likes": 0,
+    "views": 0,
+    "description": "Descubre la moda para el otoño con estilo."
   }
 ]
-
