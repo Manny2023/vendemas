@@ -48,105 +48,55 @@
     "likes": 35,
     "views": 900,
     "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
-  }
-   {
-    "id": "nuevo-video-2",
-    "title": "Especial Moda Otoño",
-    "videoUrl": "https://example.com/videos/otoño.mp4",
-    "poster": "https://example.com/posters/otoño.jpg",
-    "date": "2025-07-13",
-    "likes": 35,
-    "views": 900,
-    "description": "Descubre la moda para el otoño con estilo."
+  },
+  {
+    "id": "nuevo-video-3",
+    "title": "Colección Primavera",
+    "videoUrl": "https://example.com/videos/primavera.mp4",
+    "poster": "https://example.com/posters/primavera.jpg",
+    "date": "2025-07-15",
+    "likes": 42,
+    "views": 1100,
+    "description": "Lo último en moda primavera."
+  },
+  {
+    "id": "nuevo-video-4",
+    "title": "Tendencias Invierno",
+    "videoUrl": "https://example.com/videos/invierno.mp4",
+    "poster": "https://example.com/posters/invierno.jpg",
+    "date": "2025-07-16",
+    "likes": 38,
+    "views": 1000,
+    "description": "Prepárate para el invierno con estilo."
+  },
+  {
+    "id": "nuevo-video-5",
+    "title": "Accesorios Top 2025",
+    "videoUrl": "https://example.com/videos/accesorios.mp4",
+    "poster": "https://example.com/posters/accesorios.jpg",
+    "date": "2025-07-17",
+    "likes": 48,
+    "views": 1300,
+    "description": "Accesorios que no pueden faltar."
+  },
+  {
+    "id": "nuevo-video-6",
+    "title": "Zapatos de Moda",
+    "videoUrl": "https://example.com/videos/zapatos.mp4",
+    "poster": "https://example.com/posters/zapatos.jpg",
+    "date": "2025-07-18",
+    "likes": 44,
+    "views": 1150,
+    "description": "Los zapatos más cómodos y modernos."
+  },
+  {
+    "id": "nuevo-video-7",
+    "title": "Estilo Casual",
+    "videoUrl": "https://example.com/videos/casual.mp4",
+    "poster": "https://example.com/posters/casual.jpg",
+    "date": "2025-07-19",
+    "likes": 39,
+    "views": 1050,
+    "description": "Looks casuales para todos los días."
   }
 ]
