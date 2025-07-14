@@ -29,4 +29,26 @@
     "views": 405,
     "description": "Los perfumes más vendidos de Arabela 💖🌷"
   }
+[
+  {
+    "id": "cklass-confort",
+    "title": "Cklass Confort",
+    "videoUrl": "...",
+    "poster": "...",
+    "date": "2025-07-01",
+    "likes": 27,
+    "views": 284,
+    "description": "Moda cómoda y moderna con Cklass Confort. 💃✨"
+  },
+  {
+    "id": "avon-facial",
+    "title": "Avon Cuidado Facial",
+    "videoUrl": "...",
+    "poster": "...",
+    "date": "2025-07-02",
+    "likes": 41,
+    "views": 358,
+    "description": "Descubre lo nuevo de Avon para el cuidado facial. 🌸👑"
+  }
 ]
+
